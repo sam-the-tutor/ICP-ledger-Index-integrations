@@ -1,13 +1,11 @@
 import React, { useEffect, useState } from 'react'
 import './App.css'
-import { backend } from './declarations/backend'
-
-import One from './components/one'
+import Login from './components/Login'
 import { AuthProvider } from './use-auth-client'
 import { BrowserRouter } from 'react-router-dom'
 
 function App() {
-  return <One />
+  return <Login />
 }
 
 export default () => (
