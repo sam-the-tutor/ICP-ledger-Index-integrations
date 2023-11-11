@@ -1,3 +1,5 @@
+# How to Integrate the ICP Ledger and ICP Index Canisters in a React Frontend Project
+
 ## Introduction
 
 The ICP ledger canister is a critical smart contract canister that holds accounts and transactions for the Internet Computer Protocol's (ICP) utility token. Meanwhile, the ICP index canister is used to retrieve transaction history from the ICP ledger canister. In this article, we'll explore how to use these canisters in a frontend React project, allowing you to manage ICP tokens and transaction history with ease.
@@ -20,6 +22,9 @@ It is a command line execution environment for creating, deploying, and managing
 Internet Identity in the Internet Computer ecosystem is a decentralized, open-source identity system that allows users to create and manage their digital identities. It is built on top of the Internet Computer blockchain, which provides a secure and immutable ledger for storing user identity information.
 
 With Internet Identity, users can create a unique digital identity that is linked to their public key on the blockchain. This identity can be used to authenticate and interact with various decentralized applications and services on the Internet Computer. Internet Identity also allows users to control their data and decide how it is shared with other parties.
+
+Here is what we will build in this project and the code for this project can be found [here](https://github.com/sam-the-tutor/ICP-ledger-Index-integrations)
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699715308765/0e91ddf9-00ab-43ac-b8ad-398fdd768c39.png)
 
 ## Setting up the project
 
